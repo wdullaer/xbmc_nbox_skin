@@ -13,7 +13,7 @@ My thanks go out to
 Download
 ========
 
-You can get the latest version of this skin [here](https://github.com/wdullaer/xbmc_nbox_skin
+You can get the latest version of this skin [here](https://github.com/wdullaer/xbmc_nbox_skin/releases)
 
 License
 =======
