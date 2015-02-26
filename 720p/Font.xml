@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts>
-    <fontset id="foreign" idloc="309" unicode="true">
+    <fontset id="foreign" idloc="309">
         <font>
             <name>Home_header</name>
             <filename>mplus-2p-light.ttf</filename>

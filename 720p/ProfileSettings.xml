@@ -27,7 +27,7 @@
                 <height>720</height>
                 <texture border="22">button.png</texture>
             </control>
-            <control type="label" id="1000">
+            <control type="label" id="102">
                 <description>Profile Name</description>
                 <posx>30</posx>
                 <posy>70</posy>
@@ -37,7 +37,7 @@
                 <textcolor>black</textcolor>
                 <label>[LOWERCASE]$LOCALIZE[1023][/LOWERCASE]</label>
             </control>
-            <control type="label" id="1001">
+            <control type="label" id="103">
                 <description>Profile Directory</description>
                 <posx>30</posx>
                 <posy>100</posy>
@@ -73,7 +73,7 @@
                 <textcolor>black</textcolor>
                 <align>right</align>
             </control>
-            <control type="image" id="2">
+            <control type="image" id="101">
                 <description>profile image</description>
                 <posx>50</posx>
                 <posy>340</posy>

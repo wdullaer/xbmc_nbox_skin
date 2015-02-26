@@ -51,7 +51,7 @@
                 <height>720</height>
                 <texture border="22">button.png</texture>
             </control>
-            <control type="label" id="20">
+            <control type="label">
                 <description>Header Label</description>
                 <posx>30</posx>
                 <posy>70</posy>
@@ -61,7 +61,7 @@
                 <align>left</align>
                 <textcolor>black</textcolor>
             </control>
-            <control type="spincontrolex" id="3">
+            <control type="spincontrolex" id="20">
                 <description>Directory Content</description>
                 <posx>30</posx>
                 <posy>180</posy>
@@ -82,7 +82,7 @@
                 <label>$INFO[Control.GetLabel(3)]</label>
                 <textcolor>black</textcolor>
             </control>
-            <control type="list" id="4">
+            <control type="list" id="21">
                 <posx>30</posx>
                 <posy>230</posy>
                 <width>340</width>
@@ -138,7 +138,7 @@
                 <align>left</align>
                 <textcolor>black</textcolor>
             </control>
-            <control type="button" id="6">
+            <control type="button" id="22">
                 <description>Settings</description>
                 <posx>30</posx>
                 <posy>570</posy>

@@ -61,6 +61,13 @@
                 <font>small</font>
                 <textcolor>black</textcolor>
             </control>
+            <control type="button" id="5">
+                <description>View</description>
+                <width>240</width>
+                <align>left</align>
+                <font>small</font>
+                <textcolor>black</textcolor>
+            </control>
             <control type="button" id="98">
                 <description>Open Player Controls</description>
                 <width>240</width>

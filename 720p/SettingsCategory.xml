@@ -176,24 +176,33 @@
                 <textureupfocus>other_textures/arrowupg.png</textureupfocus>
                 <texturedownfocus>other_textures/arrowdowng.png</texturedownfocus>
             </control>
+            <control type="sliderex" id="13">
+                <description>Default Slider</description>
+                <align>left</align>
+                <focusedcolor>Accent</focusedcolor>
+                <textureup>other_textures/arrowupfo.png</textureup>
+                <texturedown>other_textures/arrowdownfo.png</texturedown>
+                <textureupfocus>other_textures/arrowupg.png</textureupfocus>
+                <texturedownfocus>other_textures/arrowdowng.png</texturedownfocus>
+            </control>
             <control type="button" id="10">
                 <description>Default Category Button</description>
                 <align>right</align>
                 <focusedcolor>Accent</focusedcolor>
             </control>
-	    <control type="button" id="20">
-		<description>Settings Level Button</description>
-		<align>right</align>
-		<focusedcolor>Accent</focusedcolor>
-		<posx>10</posx>
+      	    <control type="button" id="20">
+            		<description>Settings Level Button</description>
+            		<align>right</align>
+            		<focusedcolor>Accent</focusedcolor>
+            		<posx>10</posx>
                 <posy>650</posy>
                 <width>300</width>
-		<onleft>5</onleft>
-		<onright>5</onright>
-		<onup>3</onup>
-		<ondown>3</ondown>
-		<onclick>SettingsLevelChange</onclick>
-	    </control>
+            		<onleft>5</onleft>
+            		<onright>5</onright>
+            		<onup>3</onup>
+            		<ondown>3</ondown>
+            		<onclick>SettingsLevelChange</onclick>
+      	    </control>
             <control type="image">
                 <posx>1200</posx>
                 <posy>280</posy>

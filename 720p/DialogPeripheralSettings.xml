@@ -62,7 +62,7 @@
                 <textcolor>Black</textcolor>
                 <selectedcolor>White</selectedcolor>
 			</control>
-			<control type="sliderex" id="10">
+			<control type="sliderex" id="13">
 				<description>Default Slider</description>
 				<posx>30</posx>
                 <posy>180</posy>

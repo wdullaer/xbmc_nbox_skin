@@ -1,7 +1,7 @@
 Nbox for XBMC Gotham 
 ====================
 
-This is a small update of the Nbox skin for XBMC. The original developer never got around to making it compliant with XBMC 13 Gotham. Because I was using the skin on a daily basis I decided to make the necessary changes myself.
+This is a small update of the Nbox skin for XBMC. The original developer never got around to making it compliant with XBMC 13 Gotham and beyond. Because I was using the skin on a daily basis I decided to make the necessary changes myself.
 
 I am not a graphic designer and will not be tweaking any of the visual elements.
 

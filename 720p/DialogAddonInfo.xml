@@ -86,6 +86,13 @@
                         <textcolor>black</textcolor>
                         <align>right</align>
                     </control>
+                    <control type="button" id="12">
+                        <description>Launch button</description>
+                        <width>340</width>
+                        <label>518</label>
+                        <textcolor>black</textcolor>
+                        <align>right</align>
+                    </control>
                 </control>
                 <control type="textbox">
                     <posy>420</posy>
